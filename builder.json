@@ -1,0 +1,20 @@
+{
+  "project": "builder ios build --unsigned",
+  "platform": "ios",
+  "github": {
+    "owner": "PENGUWENGU",
+    "repo": "LocusPlustester"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "bundleId": "com.chrismack.locus"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
