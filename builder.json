@@ -1,1 +1,1 @@
-{"github":{"owner":"PENGUWENGU","repo":"LocusPlustester"},"project":"Locus","provider":"github"}
+{"github":{"owner":"PENGUWENGU","repo":"LocusPlustester"},"project":"Locus","scheme":"Locus","provider":"github","pre_build":"xcodegen generate"}
